@@ -1,6 +1,6 @@
-## Olá, sou o Ronaldo!
-
-- Estudo Engenharia de Software
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,25,34&height=200&section=header&text=Ronaldo&fontSize=50&fontColor=ffffff&desc=Estudante%20de%20Engenharia%20de%20Software&descSize=20&descAlignY=70" width="100%" />
+</p>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ronaldoo1-sfw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
