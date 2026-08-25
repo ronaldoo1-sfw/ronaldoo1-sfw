@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ronaldoo1-sfw&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ronaldoo1-sfw&show_icons=true&theme=dracula&count_private=true" />
   <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ronaldoo1-sfw&layout=compact&theme=dracula" />
 </p>
 
