@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ronaldoo1-sfw&show_icons=true&theme=dracula&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ronaldoo1-sfw&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ronaldoo1-sfw&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ronaldoo1-sfw&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL / MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
