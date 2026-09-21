@@ -22,3 +22,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronaldoo1-sfw/ronaldoo1-sfw/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ronaldoo1-sfw/ronaldoo1-sfw/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,25,34&height=150&section=footer" width="100%" />
+</p>
